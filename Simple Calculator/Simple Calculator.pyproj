@@ -4,7 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>7973bb0b-8937-4196-8532-22d3aaedc4fe</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Simple_Calculator.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,7 +24,6 @@
   <ItemGroup>
     <Compile Include="checks.py" />
     <Compile Include="main.py" />
-    <Compile Include="Simple_Calculator.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
